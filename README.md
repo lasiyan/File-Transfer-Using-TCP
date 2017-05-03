@@ -42,6 +42,6 @@ C++, Window API, Threading, WinSock2.0
 
 ## 실행 결과
 
-[![Demo Doccou alpha](https://j.gifs.com/3lnG5n.gif)](https://www.youtube.com/watch?v=pbiWALPjNU0)
+[![Demo Doccou alpha](https://j.gifs.com/3lnG5n.gif)](https://www.youtube.com/watch?v=j0UqMonOjWI)
 
 (클릭 시 유튜브로 이동합니다)
